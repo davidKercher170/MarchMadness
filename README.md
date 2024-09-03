@@ -1,4 +1,4 @@
-Data Extraction and Initialization:
+\b{Data Extraction and Initialization:}
 
 Team List Creation: The code starts by reading a file (2023.txt) containing game results. It extracts team names from each line and maintains a list of unique teams.
 Adjacency Matrix Setup: An adjacency matrix n is initialized, where each element n[i][j] will represent the competitive strength or result between team i and team j.
