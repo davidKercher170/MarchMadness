@@ -16,7 +16,7 @@ Teams are sorted based on their degree centrality scores.
 
 **Power Series Iteration Centrality:**
 
-Another function 'pr' computes the PageRank-like centrality using iterative methods.
+The Function pr computes the PageRank-like centrality using iterative methods.
 It constructs a probability matrix from the adjacency matrix and normalizes it.
 Iterative power series updates are performed to calculate the centrality scores, with convergence achieved after a fixed number of iterations.
 Teams are then ranked based on these centrality scores.
